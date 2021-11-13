@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://nodeudemy:nodeudemy@cluster0.gxnjf.mongodb.net/newtest?retryWrites=true&w=majority",
+    "port" : 5002,
+    "jwtSecret": "customizeThisJwtSecret"
+}
+  
+
